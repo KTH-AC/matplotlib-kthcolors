@@ -15,6 +15,11 @@ git clone https://github.com/adaldo/matplotlib-kthcolors
 cd matplotlib-kthcolors
 python setup.py install
 ```
+- If you want, you can remove the repository directory now.
+```
+cd ..
+sudo rm -r matplotlib-kthcolors
+```
 
 ## Usage
 - Import the module `kthcolors`.
