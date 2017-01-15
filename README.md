@@ -23,7 +23,7 @@ sudo apt-get install python-pip python-matplotlib
   ```
   cd matplotlib-kthcolors
   python setup.py sdist bdist_wheel
-  pip install ./dist/pygeomtwo-0.0.2.tar.gz
+  pip install ./dist/kthcolors-0.0.2.tar.gz
   ```
 
 3. If you want, you can remove the repository directory now.
