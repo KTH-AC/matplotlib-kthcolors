@@ -59,4 +59,4 @@ sudo apt-get install python-pip python-matplotlib
   pip uninstall kthcolors
   ```
 
-2. [Write me a mail](people.kth.se/~adaldo) to let me know what went wrong.
+2. [Write me a mail](https://people.kth.se/~adaldo) to let me know what went wrong.
