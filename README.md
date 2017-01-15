@@ -1,4 +1,4 @@
-# matplotlib-kthcolors
+# Matplotlib KTH Colors
 Collection of KTH colors for matplotlib
 
 
