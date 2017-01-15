@@ -36,20 +36,10 @@ sudo apt-get install python-pip python-matplotlib
 ## Usage
 
 1. Import the module `kthcolors`.
+2. Use `matplotlib` as usual.
+3. Enjoy
 
-2. Use `matplotlib` as usual. Here is an example.
-
-  ```
-  import kthcolors
-  import matplotlib.pyplot as plt
-
-  plt.figure()
-  plt.plot([1,2],[2,3],color='kthblue')
-  plt.show()
-  ```
-
-3. Enjoy.
-
+See `example.py` for an example.
 
 ## Uninstall
 
