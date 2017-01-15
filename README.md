@@ -56,7 +56,7 @@ sudo apt-get install python-pip python-matplotlib
 1. Type this in a terminal
 
   ```
-  pip uninstall pygeomtwo
+  pip uninstall kthcolors
   ```
 
 2. [Write me a mail](people.kth.se/~adaldo) to let me know what went wrong.
