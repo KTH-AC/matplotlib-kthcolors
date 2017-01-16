@@ -50,4 +50,4 @@ See `example.py` for an example.
   pip uninstall kthcolors
   ```
 
-2. [Write me a mail](https://people.kth.se/~adaldo) to let me know what went wrong.
+2. Write a mail to <antonio.adaldo.89@gmail.com> to let me know what went wrong.

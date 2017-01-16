@@ -1,4 +1,4 @@
-import kthcolors.kthcolors
+import kthcolors
 import matplotlib.pyplot as plt
 
 plt.figure()
