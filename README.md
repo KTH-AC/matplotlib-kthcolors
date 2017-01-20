@@ -38,11 +38,10 @@ sudo apt-get install python-pip python-matplotlib
 
 ## Usage
 
-1. Import the module `kthcolors`.
-2. Use `matplotlib` as usual.
-3. Enjoy.
+If you want to introduce new color names for the kth colors, then import `kthcolors.kthcolors` and use Matplotlib with the new color names. See `example.py` for an example of this usage.
 
-See `example.py` for example usage.
+If you want the standard color names to be remapped to the kth colors, import `kthcolors.inplace` and use Matplotlib normally.
+
 
 ## Uninstall
 
