@@ -5,7 +5,7 @@ setup(
   packages = ['kthcolors'], # this must be the same as the name above
   version = '0.0.2',
   classifiers=[
-          "License :: OSI Approved :: GNU General Public License (GPL)",
+          "License :: OSI Approved :: MIT",
           "Programming Language :: Python",
           "Development Status :: 3 - Alpha",
           "Intended Audience :: Developers",
