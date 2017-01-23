@@ -4,7 +4,7 @@ Collection of KTH colors for matplotlib
 
 ## Installation
 Installation steps may vary depending on your OS.
-In general, I would expect the following instructions to work just fine.
+On Linux and MacOS, I would expect the following instructions to work just fine.
 
 You need Python 2 or 3 on your computer.
 Moreover, you need `python-pip` and `python-setuptools`.
@@ -44,6 +44,9 @@ If you want the standard color names to be remapped to the kth colors, import `k
 
 
 ## Uninstall
+
+Uninstallation varies depending on your OS.
+On Linux and MacOS, I expect the following to work just fine.
 
 1. Type this in a terminal
 
