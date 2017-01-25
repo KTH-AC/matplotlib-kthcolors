@@ -8,7 +8,8 @@ The color names have been translated to English.
 
 Here is a preview of the colors and their English names.
 After installation, you will be able to reproduce this picture by running `example.py`.
-<img src="example.png" width="400" height="300" />
+
+<img src="example.png" width="600" height="400" />
 
 ## Installation
 Installation steps may vary depending on your OS.
