@@ -2,6 +2,14 @@
 Collection of KTH colors for matplotlib
 
 
+## Supported colors
+The package supports the 11 colors listed in the [KTH color palette](https://intra.kth.se/polopoly_fs/1.486828!/image/fargreferens_png.png).
+The color names have been translated to English.
+
+Here is a preview of the colors and their English names.
+After installation, you will be able to reproduce this picture by running `example.py`.
+![Alt text](example.png)
+
 ## Installation
 Installation steps may vary depending on your OS.
 On Linux and MacOS, I would expect the following instructions to work just fine.
