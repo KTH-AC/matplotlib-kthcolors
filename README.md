@@ -20,7 +20,7 @@ Moreover, you need `python-pip` and `python-setuptools`.
 In the remote event that you do not have them already, grab them with your favorite package manager.
 For example, on Linux, type this in a terminal:
 ```
-sudo apt-get install python-pip python-matplotlib
+sudo apt-get install python-pip python-setuptools
 ```
 
 1. Clone this repository.
